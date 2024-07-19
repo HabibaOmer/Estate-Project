@@ -1,0 +1,6 @@
+E:\back-end\projects_MVC\Estate_project\Estate_project\bin\Debug\Estate_project.exe.config
+E:\back-end\projects_MVC\Estate_project\Estate_project\bin\Debug\Estate_project.exe
+E:\back-end\projects_MVC\Estate_project\Estate_project\bin\Debug\Estate_project.pdb
+E:\back-end\projects_MVC\Estate_project\Estate_project\obj\Debug\Estate_project.csprojResolveAssemblyReference.cache
+E:\back-end\projects_MVC\Estate_project\Estate_project\obj\Debug\Estate_project.exe
+E:\back-end\projects_MVC\Estate_project\Estate_project\obj\Debug\Estate_project.pdb
